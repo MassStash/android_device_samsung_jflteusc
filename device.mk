@@ -23,7 +23,7 @@ NEEDS_GPS_MSB_DISABLED := true
 ## overlays
 DEVICE_PACKAGE_OVERLAYS += device/samsung/jflteusc/overlay
 ## common overlays
-DEVICE_PACKAGE_OVERLAYS += device/samsung/jf-common/overlay
+DEVICE_PACKAGE_OVERLAYS += device/samsung/jf-common/overlay-cdma
 
 # Inherit from jf-common
 $(call inherit-product, device/samsung/jf-common/jf-common.mk)
