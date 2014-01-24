@@ -30,10 +30,10 @@
 "revision": "cm-11.0"
 },
 {
-"remote": "ms",
-"repository": "platform_vendor_samsung",
+"remote": "tm",
+"repository": "proprietary_vendor_samsung",
 "target_path": "vendor/samsung",
-"revision": "kk-4.4"
+"revision": "cm-11.0"
 }
 
 ]
