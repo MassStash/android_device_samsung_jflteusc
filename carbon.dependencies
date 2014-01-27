@@ -21,7 +21,7 @@
    "remote": "cm",
    "repository": "CyanogenMod/android_kernel_samsung_jf",
    "target_path": "kernel/samsung/jf",
-   "revision": "kk-4.4_new"
+   "revision": "cm-11.0"
  },
  {
    "remote": "cm",
