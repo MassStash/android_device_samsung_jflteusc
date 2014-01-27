@@ -1,7 +1,7 @@
 [
  {
-   "remote": "cm",
-   "repository": "CyanogenMod/android_device_samsung_jf-common",
+   "remote": "ms",
+   "repository": "MassStash/android_device_samsung_jf-common",
    "target_path": "device/samsung/jf-common",
    "revision": "cm-11.0"
  },
@@ -18,14 +18,14 @@
    "revision": "cm-11.0"
  },
  {
-   "remote": "cm",
-   "repository": "CyanogenMod/android_kernel_samsung_jf",
+   "remote": "ms",
+   "repository": "MassStash/android_kernel_samsung_jf",
    "target_path": "kernel/samsung/jf",
-   "revision": "cm-11.0"
+   "revision": "kk-4.4_new"
  },
  {
-   "remote": "cm",
-   "repository": "CyanogenMod/android_hardware_samsung",
+   "remote": "ms",
+   "repository": "MassStash/android_hardware_samsung",
    "target_path": "hardware/samsung",
    "revision": "cm-11.0"
  },
@@ -33,6 +33,6 @@
    "remote": "cr",
    "repository": "CarbonDev/proprietary_vendor_samsung",
    "target_path": "vendor/samsung",
-   "revision": "cm-11.0"
+   "revision": "kk"
  }
 ]
