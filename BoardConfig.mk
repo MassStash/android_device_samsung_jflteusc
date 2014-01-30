@@ -30,6 +30,6 @@
 TARGET_OTA_ASSERT_DEVICE := jflteusc
 
 # Kernel
-TARGET_KERNEL_CONFIG    := cyanogen_jfusc_defconfig
+TARGET_KERNEL_CONFIG    := jf_usc_defconfig
 
 
