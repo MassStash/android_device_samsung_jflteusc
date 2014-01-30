@@ -1,26 +1,26 @@
 [
  {
    "repository": "MassStash/android_device_samsung_jf-common",
-   "target_path": "device/samsung/jf-common",
+   "target_path": "device/samsung/jf-common"
  },
  {
    "repository": "CyanogenMod/android_device_samsung_msm8960-common",
-   "target_path": "device/samsung/msm8960-common",
+   "target_path": "device/samsung/msm8960-common"
  },
  {
    "repository": "CyanogenMod/android_device_samsung_qcom-common",
-   "target_path": "device/samsung/qcom-common",
+   "target_path": "device/samsung/qcom-common"
  },
  {
    "repository": "MassStash/android_kernel_samsung_jf",
-   "target_path": "kernel/samsung/jf",
+   "target_path": "kernel/samsung/jf"
  },
  {
    "repository": "MassStash/android_hardware_samsung",
-   "target_path": "hardware/samsung",
+   "target_path": "hardware/samsung"
  },
  {
    "repository": "CarbonDev/proprietary_vendor_samsung",
-   "target_path": "vendor/samsung",
+   "target_path": "vendor/samsung"
  }
 ]
