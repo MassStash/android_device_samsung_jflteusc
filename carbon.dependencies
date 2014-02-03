@@ -12,7 +12,7 @@
    "target_path": "device/samsung/qcom-common"
  },
  {
-   "repository": "MassStash/android_kernel_samsung_jf",
+   "repository": "MassStash/platform_kernel_samsung_jf",
    "target_path": "kernel/samsung/jf"
  },
  {
